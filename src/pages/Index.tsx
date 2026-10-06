@@ -20,7 +20,7 @@ const Index = () => {
           <div>
             <h1 className="text-3xl font-bold text-success flex items-center gap-3">
               <Icon name="Terminal" size={32} />
-              EcomBitrix API Monitor
+              Payti API Monitor
             </h1>
             <p className="text-muted-foreground mt-1">Real-time API logging & analytics</p>
           </div>

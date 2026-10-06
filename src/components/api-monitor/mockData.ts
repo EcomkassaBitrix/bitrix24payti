@@ -13,7 +13,7 @@ export const mockLogs: APILog[] = [
     request: {
       headers: { 
         'Content-Type': 'application/json',
-        'User-Agent': 'Bitrix24-Ecomkassa-Integration/1.0'
+        'User-Agent': 'Bitrix24-Payti-Integration/1.0'
       },
       body: { 
         kassaid: '987654',
@@ -218,7 +218,7 @@ export const mockLogs: APILog[] = [
     source: 'ecomkassa',
     request: {
       headers: { 
-        'User-Agent': 'Ecomkassa-Callback/1.0'
+        'User-Agent': 'Payti-Callback/1.0'
       },
       body: null
     },

@@ -1,5 +1,5 @@
 '''
-Business: Обработка callback от EcomKassa после оплаты и обновление статуса в Bitrix24
+Business: Обработка callback от платёжного API (Payti) после оплаты и обновление статуса в Bitrix24
 Args: event с httpMethod, queryStringParameters (external_id, secret), context с request_id
 Returns: HTTP response с результатом обработки
 '''

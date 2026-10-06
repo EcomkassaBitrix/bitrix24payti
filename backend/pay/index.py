@@ -1,5 +1,5 @@
 '''
-Business: Создание платежа EcomKassa и отправка чека на фискализацию
+Business: Создание платежа Payti и отправка чека на фискализацию
 Args: event с httpMethod, body (member_id, PAYMENT_ID, dealid, secret_code), context с request_id
 Returns: HTTP response с payment_url или ошибкой
 '''

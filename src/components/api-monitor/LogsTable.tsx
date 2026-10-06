@@ -70,7 +70,7 @@ export const LogsTable = ({
             <SelectContent>
               <SelectItem value="all">All Sources</SelectItem>
               <SelectItem value="bitrix">Bitrix24</SelectItem>
-              <SelectItem value="ecomkassa">Ecomkassa</SelectItem>
+              <SelectItem value="ecomkassa">Payti</SelectItem>
             </SelectContent>
           </Select>
           <Button variant="outline" className="gap-2">

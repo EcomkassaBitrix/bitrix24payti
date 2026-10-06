@@ -1,5 +1,5 @@
 '''
-Business: Управление настройками интеграции EcomKassa для аккаунтов Bitrix24
+Business: Управление настройками интеграции Payti для аккаунтов Bitrix24
 Args: event с httpMethod, body для POST/PUT, queryStringParameters для GET, context с request_id
 Returns: HTTP response с настройками или статусом операции
 '''
